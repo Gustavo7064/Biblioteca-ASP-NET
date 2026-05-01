@@ -1,0 +1,323 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\3amod\\Desktop\\ProjetoBiblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF2D52E-8C0C-440F-8B27-F8873EDDF22B}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|c:\\users\\3amod\\desktop\\projetobiblioteca\\projetobiblioteca\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF2D52E-8C0C-440F-8B27-F8873EDDF22B}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF2D52E-8C0C-440F-8B27-F8873EDDF22B}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|c:\\users\\3amod\\desktop\\projetobiblioteca\\projetobiblioteca\\controllers\\emprestimocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF2D52E-8C0C-440F-8B27-F8873EDDF22B}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\controllers\\emprestimocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF2D52E-8C0C-440F-8B27-F8873EDDF22B}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|c:\\users\\3amod\\desktop\\projetobiblioteca\\projetobiblioteca\\views\\livro\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFF2D52E-8C0C-440F-8B27-F8873EDDF22B}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\views\\livro\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF2D52E-8C0C-440F-8B27-F8873EDDF22B}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|c:\\users\\3amod\\desktop\\projetobiblioteca\\projetobiblioteca\\models\\livros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF2D52E-8C0C-440F-8B27-F8873EDDF22B}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\models\\livros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF2D52E-8C0C-440F-8B27-F8873EDDF22B}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|c:\\users\\3amod\\desktop\\projetobiblioteca\\projetobiblioteca\\models\\carrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF2D52E-8C0C-440F-8B27-F8873EDDF22B}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\models\\carrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF2D52E-8C0C-440F-8B27-F8873EDDF22B}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|c:\\users\\3amod\\desktop\\projetobiblioteca\\projetobiblioteca\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFF2D52E-8C0C-440F-8B27-F8873EDDF22B}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF2D52E-8C0C-440F-8B27-F8873EDDF22B}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|c:\\users\\3amod\\desktop\\projetobiblioteca\\projetobiblioteca\\controllers\\authcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF2D52E-8C0C-440F-8B27-F8873EDDF22B}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\controllers\\authcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF2D52E-8C0C-440F-8B27-F8873EDDF22B}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|c:\\users\\3amod\\desktop\\projetobiblioteca\\projetobiblioteca\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF2D52E-8C0C-440F-8B27-F8873EDDF22B}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF2D52E-8C0C-440F-8B27-F8873EDDF22B}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|c:\\users\\3amod\\desktop\\projetobiblioteca\\projetobiblioteca\\views\\livro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFF2D52E-8C0C-440F-8B27-F8873EDDF22B}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\views\\livro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF2D52E-8C0C-440F-8B27-F8873EDDF22B}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|c:\\users\\3amod\\desktop\\projetobiblioteca\\projetobiblioteca\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF2D52E-8C0C-440F-8B27-F8873EDDF22B}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF2D52E-8C0C-440F-8B27-F8873EDDF22B}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|c:\\users\\3amod\\desktop\\projetobiblioteca\\projetobiblioteca\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF2D52E-8C0C-440F-8B27-F8873EDDF22B}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF2D52E-8C0C-440F-8B27-F8873EDDF22B}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|c:\\users\\3amod\\desktop\\projetobiblioteca\\projetobiblioteca\\projetobiblioteca.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DFF2D52E-8C0C-440F-8B27-F8873EDDF22B}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\projetobiblioteca.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF2D52E-8C0C-440F-8B27-F8873EDDF22B}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|c:\\users\\3amod\\desktop\\projetobiblioteca\\projetobiblioteca\\autentica\u00E7ao\\sessionauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF2D52E-8C0C-440F-8B27-F8873EDDF22B}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\autentica\u00E7ao\\sessionauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF2D52E-8C0C-440F-8B27-F8873EDDF22B}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|c:\\users\\3amod\\desktop\\projetobiblioteca\\projetobiblioteca\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFF2D52E-8C0C-440F-8B27-F8873EDDF22B}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF2D52E-8C0C-440F-8B27-F8873EDDF22B}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|c:\\users\\3amod\\desktop\\projetobiblioteca\\projetobiblioteca\\autentica\u00E7ao\\sessionkeys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF2D52E-8C0C-440F-8B27-F8873EDDF22B}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\autentica\u00E7ao\\sessionkeys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF2D52E-8C0C-440F-8B27-F8873EDDF22B}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|c:\\users\\3amod\\desktop\\projetobiblioteca\\projetobiblioteca\\views\\usuarios\\criarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFF2D52E-8C0C-440F-8B27-F8873EDDF22B}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\views\\usuarios\\criarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF2D52E-8C0C-440F-8B27-F8873EDDF22B}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|c:\\users\\3amod\\desktop\\projetobiblioteca\\projetobiblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF2D52E-8C0C-440F-8B27-F8873EDDF22B}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF2D52E-8C0C-440F-8B27-F8873EDDF22B}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|c:\\users\\3amod\\desktop\\projetobiblioteca\\projetobiblioteca\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF2D52E-8C0C-440F-8B27-F8873EDDF22B}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmprestimoController.cs",
+              "DocumentMoniker": "C:\\Users\\3amod\\Desktop\\ProjetoBiblioteca\\ProjetoBiblioteca\\Controllers\\EmprestimoController.cs",
+              "RelativeDocumentMoniker": "ProjetoBiblioteca\\Controllers\\EmprestimoController.cs",
+              "ToolTip": "C:\\Users\\3amod\\Desktop\\ProjetoBiblioteca\\ProjetoBiblioteca\\Controllers\\EmprestimoController.cs",
+              "RelativeToolTip": "ProjetoBiblioteca\\Controllers\\EmprestimoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAjwB0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T17:41:37.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Carrinho.cs",
+              "DocumentMoniker": "C:\\Users\\3amod\\Desktop\\ProjetoBiblioteca\\ProjetoBiblioteca\\Models\\Carrinho.cs",
+              "RelativeDocumentMoniker": "ProjetoBiblioteca\\Models\\Carrinho.cs",
+              "ToolTip": "C:\\Users\\3amod\\Desktop\\ProjetoBiblioteca\\ProjetoBiblioteca\\Models\\Carrinho.cs",
+              "RelativeToolTip": "ProjetoBiblioteca\\Models\\Carrinho.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T17:39:39.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProjetoBiblioteca",
+              "DocumentMoniker": "C:\\Users\\3amod\\Desktop\\ProjetoBiblioteca\\ProjetoBiblioteca\\ProjetoBiblioteca.csproj",
+              "RelativeDocumentMoniker": "ProjetoBiblioteca\\ProjetoBiblioteca.csproj",
+              "ToolTip": "C:\\Users\\3amod\\Desktop\\ProjetoBiblioteca\\ProjetoBiblioteca\\ProjetoBiblioteca.csproj",
+              "RelativeToolTip": "ProjetoBiblioteca\\ProjetoBiblioteca.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-29T17:07:39.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\3amod\\Desktop\\ProjetoBiblioteca\\ProjetoBiblioteca\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProjetoBiblioteca\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\3amod\\Desktop\\ProjetoBiblioteca\\ProjetoBiblioteca\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProjetoBiblioteca\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T17:08:48.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\3amod\\Desktop\\ProjetoBiblioteca\\ProjetoBiblioteca\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProjetoBiblioteca\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\3amod\\Desktop\\ProjetoBiblioteca\\ProjetoBiblioteca\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProjetoBiblioteca\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-29T17:05:48.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\3amod\\Desktop\\ProjetoBiblioteca\\ProjetoBiblioteca\\Views\\Livro\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjetoBiblioteca\\Views\\Livro\\Index.cshtml",
+              "ToolTip": "C:\\Users\\3amod\\Desktop\\ProjetoBiblioteca\\ProjetoBiblioteca\\Views\\Livro\\Index.cshtml",
+              "RelativeToolTip": "ProjetoBiblioteca\\Views\\Livro\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-29T16:58:17.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Criar.cshtml",
+              "DocumentMoniker": "C:\\Users\\3amod\\Desktop\\ProjetoBiblioteca\\ProjetoBiblioteca\\Views\\Livro\\Criar.cshtml",
+              "RelativeDocumentMoniker": "ProjetoBiblioteca\\Views\\Livro\\Criar.cshtml",
+              "ToolTip": "C:\\Users\\3amod\\Desktop\\ProjetoBiblioteca\\ProjetoBiblioteca\\Views\\Livro\\Criar.cshtml",
+              "RelativeToolTip": "ProjetoBiblioteca\\Views\\Livro\\Criar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-29T16:54:35.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LivroController.cs",
+              "DocumentMoniker": "C:\\Users\\3amod\\Desktop\\ProjetoBiblioteca\\ProjetoBiblioteca\\Controllers\\LivroController.cs",
+              "RelativeDocumentMoniker": "ProjetoBiblioteca\\Controllers\\LivroController.cs",
+              "ToolTip": "C:\\Users\\3amod\\Desktop\\ProjetoBiblioteca\\ProjetoBiblioteca\\Controllers\\LivroController.cs",
+              "RelativeToolTip": "ProjetoBiblioteca\\Controllers\\LivroController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwH4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T19:58:33.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SessionKeys.cs",
+              "DocumentMoniker": "C:\\Users\\3amod\\Desktop\\ProjetoBiblioteca\\ProjetoBiblioteca\\Autentica\u00E7ao\\SessionKeys.cs",
+              "RelativeDocumentMoniker": "ProjetoBiblioteca\\Autentica\u00E7ao\\SessionKeys.cs",
+              "ToolTip": "C:\\Users\\3amod\\Desktop\\ProjetoBiblioteca\\ProjetoBiblioteca\\Autentica\u00E7ao\\SessionKeys.cs",
+              "RelativeToolTip": "ProjetoBiblioteca\\Autentica\u00E7ao\\SessionKeys.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T19:13:11.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\3amod\\Desktop\\ProjetoBiblioteca\\ProjetoBiblioteca\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "ProjetoBiblioteca\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\3amod\\Desktop\\ProjetoBiblioteca\\ProjetoBiblioteca\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "ProjetoBiblioteca\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T19:36:30.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Livros.cs",
+              "DocumentMoniker": "C:\\Users\\3amod\\Desktop\\ProjetoBiblioteca\\ProjetoBiblioteca\\Models\\Livros.cs",
+              "RelativeDocumentMoniker": "ProjetoBiblioteca\\Models\\Livros.cs",
+              "ToolTip": "C:\\Users\\3amod\\Desktop\\ProjetoBiblioteca\\ProjetoBiblioteca\\Models\\Livros.cs",
+              "RelativeToolTip": "ProjetoBiblioteca\\Models\\Livros.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T19:44:27.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\3amod\\Desktop\\ProjetoBiblioteca\\ProjetoBiblioteca\\Data\\Database.cs",
+              "RelativeDocumentMoniker": "ProjetoBiblioteca\\Data\\Database.cs",
+              "ToolTip": "C:\\Users\\3amod\\Desktop\\ProjetoBiblioteca\\ProjetoBiblioteca\\Data\\Database.cs",
+              "RelativeToolTip": "ProjetoBiblioteca\\Data\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T17:14:14.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthControllers.cs",
+              "DocumentMoniker": "C:\\Users\\3amod\\Desktop\\ProjetoBiblioteca\\ProjetoBiblioteca\\Controllers\\AuthControllers.cs",
+              "RelativeDocumentMoniker": "ProjetoBiblioteca\\Controllers\\AuthControllers.cs",
+              "ToolTip": "C:\\Users\\3amod\\Desktop\\ProjetoBiblioteca\\ProjetoBiblioteca\\Controllers\\AuthControllers.cs",
+              "RelativeToolTip": "ProjetoBiblioteca\\Controllers\\AuthControllers.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAADgvycAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T19:22:19.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\3amod\\Desktop\\ProjetoBiblioteca\\ProjetoBiblioteca\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "ProjetoBiblioteca\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\3amod\\Desktop\\ProjetoBiblioteca\\ProjetoBiblioteca\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "ProjetoBiblioteca\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T17:47:40.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\3amod\\Desktop\\ProjetoBiblioteca\\ProjetoBiblioteca\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoBiblioteca\\Program.cs",
+              "ToolTip": "C:\\Users\\3amod\\Desktop\\ProjetoBiblioteca\\ProjetoBiblioteca\\Program.cs",
+              "RelativeToolTip": "ProjetoBiblioteca\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T19:18:51.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SessionAuthorizeAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\3amod\\Desktop\\ProjetoBiblioteca\\ProjetoBiblioteca\\Autentica\u00E7ao\\SessionAuthorizeAttribute.cs",
+              "RelativeDocumentMoniker": "ProjetoBiblioteca\\Autentica\u00E7ao\\SessionAuthorizeAttribute.cs",
+              "ToolTip": "C:\\Users\\3amod\\Desktop\\ProjetoBiblioteca\\ProjetoBiblioteca\\Autentica\u00E7ao\\SessionAuthorizeAttribute.cs",
+              "RelativeToolTip": "ProjetoBiblioteca\\Autentica\u00E7ao\\SessionAuthorizeAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T19:12:48.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CriarUsuario.cshtml",
+              "DocumentMoniker": "C:\\Users\\3amod\\Desktop\\ProjetoBiblioteca\\ProjetoBiblioteca\\Views\\Usuarios\\CriarUsuario.cshtml",
+              "RelativeDocumentMoniker": "ProjetoBiblioteca\\Views\\Usuarios\\CriarUsuario.cshtml",
+              "ToolTip": "C:\\Users\\3amod\\Desktop\\ProjetoBiblioteca\\ProjetoBiblioteca\\Views\\Usuarios\\CriarUsuario.cshtml",
+              "RelativeToolTip": "ProjetoBiblioteca\\Views\\Usuarios\\CriarUsuario.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T18:01:54.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\3amod\\Desktop\\ProjetoBiblioteca\\ProjetoBiblioteca\\Models\\Usuarios.cs",
+              "RelativeDocumentMoniker": "ProjetoBiblioteca\\Models\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\3amod\\Desktop\\ProjetoBiblioteca\\ProjetoBiblioteca\\Models\\Usuarios.cs",
+              "RelativeToolTip": "ProjetoBiblioteca\\Models\\Usuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T17:41:13.961Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
