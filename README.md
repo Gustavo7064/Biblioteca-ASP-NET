@@ -48,27 +48,49 @@ O projeto utiliza **MySQL**. O script de criação do banco está no arquivo `Bd
 ### Passo a passo
 
 1. **Clone o repositório**
-```bash
-   git clone https://github.com/seu-usuario/Biblioteca-ASP-NET.git
-   cd Biblioteca-ASP-NET
-```
+
+git clone https://github.com/seu-usuario/Biblioteca-ASP-NET.git
+cd Biblioteca-ASP-NET
 
 2. **Configure o banco de dados**
-   - Abra o MySQL e execute o script:
-```sql
-   source BdBiblioteca.sql;
-```
+   - Abra o MySQL e execute o script: `source BdBiblioteca.sql;`
 
 3. **Configure a string de conexão**
    - Em `ProjetoBiblioteca/Data/Database.cs`, ajuste a string de conexão com seu usuário e senha do MySQL.
 
 4. **Rode o projeto**
-```bash
-   cd ProjetoBiblioteca
-   dotnet run
-```
-   Ou abra a solution `ProjetoBiblioteca.sln` no Visual Studio e pressione `F5`.
+
+cd ProjetoBiblioteca
+dotnet run
+
+Ou abra a solution `ProjetoBiblioteca.sln` no Visual Studio e pressione `F5`.
 
 ---
 
 ## 📁 Estrutura do Projeto
+
+Biblioteca-ASP-NET/
+├── BdBiblioteca.sql
+├── ProjetoBiblioteca.sln
+└── ProjetoBiblioteca/
+    ├── Autenticacao/
+    ├── Controllers/
+    ├── Data/
+    ├── Models/
+    ├── Views/
+    └── Program.cs
+
+---
+
+## 👥 Perfis de Acesso
+
+| Perfil | Permissões |
+|---|---|
+| Admin | Acesso total ao sistema |
+| Bibliotecario | Gerencia livros e empréstimos |
+
+---
+
+## 📄 Licença
+
+Este projeto foi desenvolvido para fins educacionais.
